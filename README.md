@@ -20,6 +20,7 @@ The goal of this notebook is to build a solid foundation in Pandas, focusing on 
 Run each code cell in the Jupyter Notebook to explore Pandas operations step by step. Modify the dataset and experiment with different functions to deepen your understanding.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/1b42dbd3-8935-4513-8d8e-26e168306347)
 
 ---
 Feel free to suggest improvements or raise issues for discussion!
